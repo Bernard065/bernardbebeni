@@ -97,9 +97,9 @@ const ProjectCard = ({ index, name, description, tags, image, source_code_link, 
           ) : (
             <button
               onClick={toggleExpansion}
-              className='text-red-400 text-md font-bold hover:underline'
+              className='text-white text-md font-bold hover:underline'
             >
-              See More
+              See More about Project
             </button>
           )}
         </div>
