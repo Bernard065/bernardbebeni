@@ -51,7 +51,7 @@ const About = () => {
         <h2 className={styles.sectionHeadText}>Overview</h2>
       </motion.div>
       <motion.p variants={fadeIn("", "", 0.1, 1)} className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-      As a skilled software developer and UX designer, I bring a diverse set of technical skills and creative problem-solving abilities to create efficient, scalable, and user-friendly solutions. With expertise in TypeScript, JavaScript, and frameworks like ReactJs, Node.js, Next.js, Ruby, and Three.js, I have a strong foundation in web development and a proven track record of delivering high-quality software products. I thrive on collaboration and excel at working closely with clients to understand their needs and goals. By leveraging my technical knowledge and adaptability, I ensure that the solutions I develop address real-world problems and exceed client expectations. 
+      As a skilled software developer, I bring a diverse set of technical skills and creative problem-solving abilities to create efficient, scalable, and user-friendly solutions. With expertise in TypeScript, JavaScript, and frameworks like ReactJs, Node.js, Next.js, Ruby, and Three.js, I have a strong foundation in web development and a proven track record of delivering high-quality software products. I thrive on collaboration and excel at working closely with clients to understand their needs and goals. By leveraging my technical knowledge and adaptability, I ensure that the solutions I develop address real-world problems and exceed client expectations. 
       {/* <div>
       <button className='bg-[#7E37FF] hover:bg-[#915EFF] text-white font-bold py-2 px-4 rounded mt-6' onClick={handleDownloadCV}>
         Download CV
